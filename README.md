@@ -59,8 +59,6 @@ MySQL, MongoDB
 
 ![Abinaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=abinaya-abi2204&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abinaya-abi2204&layout=compact)
-
 ---
 
 ## Streak Stats
