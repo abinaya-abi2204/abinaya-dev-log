@@ -16,7 +16,7 @@ Add from word1 if available
 Add from word2 if available
 Continue until both are fully traversed.
   
-LEETCODE 1768:
+LEETCODE NO 1768:
 You are given two strings word1 and word2. Merge the strings by adding letters in alternating order, starting with word1. If a string is longer than the other, append the additional letters onto the end of the merged string. Return the merged string.
   
 Example 1:
@@ -69,3 +69,6 @@ class Solution {
         return result.toString();
     }
 }
+
+
+HAPPY LEARNING
