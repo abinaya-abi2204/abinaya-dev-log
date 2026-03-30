@@ -1,6 +1,6 @@
 Merge Strings Alternately
   Given two strings word1 and word2, merge them by alternating characters starting from word1.
-If one string is longer, append the remaining characters at the end.
+If one string is longer, append the remaining characters at the end .
 
   Example:
 Input:  word1 = "abc", word2 = "pqr"
