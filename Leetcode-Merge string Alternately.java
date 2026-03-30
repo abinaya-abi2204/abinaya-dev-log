@@ -4,7 +4,7 @@ If one string is longer, append the remaining characters at the end .
 
   Example:
 Input:  word1 = "abc", word2 = "pqr"
-Output: "apbqcr"
+Output: "apbqcr" 
 Input:  word1 = "ab", word2 = "pqrs"
 Output: "apbqrs"
 
